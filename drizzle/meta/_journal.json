@@ -1,0 +1,13 @@
+{
+  "version": "6",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1717049016195,
+      "tag": "0000_stale_bruce_banner",
+      "breakpoints": true
+    }
+  ]
+}

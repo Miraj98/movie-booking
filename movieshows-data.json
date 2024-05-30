@@ -1,0 +1,110 @@
+[
+	{
+		"movieId": 1,
+		"cinemaId": 1,
+		"showTime": 900,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 1,
+		"cinemaId": 1,
+		"showTime": 1000,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 1,
+		"cinemaId": 1,
+		"showTime": 1700,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 2,
+		"cinemaId": 1,
+		"showTime": 2000,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 2,
+		"cinemaId": 1,
+		"showTime": 2300,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 2,
+		"cinemaId": 1,
+		"showTime": 800,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 10,
+		"cinemaId": 2,
+		"showTime": 900,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 10,
+		"cinemaId": 2,
+		"showTime": 1000,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 10,
+		"cinemaId": 2,
+		"showTime": 1700,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 69,
+		"cinemaId": 2,
+		"showTime": 2000,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 69,
+		"cinemaId": 2,
+		"showTime": 2300,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 69,
+		"cinemaId": 2,
+		"showTime": 800,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 10,
+		"cinemaId": 3,
+		"showTime": 900,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 10,
+		"cinemaId": 3,
+		"showTime": 1000,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 10,
+		"cinemaId": 3,
+		"showTime": 1700,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 69,
+		"cinemaId": 3,
+		"showTime": 2000,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 69,
+		"cinemaId": 3,
+		"showTime": 2300,
+		"seatsStatus": []
+	},
+	{
+		"movieId": 69,
+		"cinemaId": 3,
+		"showTime": 800,
+		"seatsStatus": []
+	}
+]
