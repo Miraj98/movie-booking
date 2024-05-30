@@ -1,6 +1,6 @@
 import db from "@/db/client";
 import { show_seats } from "@/db/schema";
-import { and, eq, gte, inArray, or } from "drizzle-orm";
+import { and, eq, inArray } from "drizzle-orm";
 import { headers } from "next/headers";
 import { NextRequest, NextResponse } from "next/server";
 
